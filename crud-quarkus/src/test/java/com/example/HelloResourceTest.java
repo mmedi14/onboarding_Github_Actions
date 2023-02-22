@@ -6,7 +6,7 @@ import com.example.HelloResource.User;
 
 import java.util.List;
 import static org.hamcrest.MatcherAssert.assertThat;
-
+// esto es un cambio de prueba
 
 
 @QuarkusTest
